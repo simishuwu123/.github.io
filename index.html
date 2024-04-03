@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>私密书屋回家地址1</title>
+<title>私密书屋回家地址</title>
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="私密书屋最新地址发布页面：" />
 <meta property="og:locale" content="en_US" />

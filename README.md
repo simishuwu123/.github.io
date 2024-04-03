@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -11,20 +12,20 @@
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="私密书屋最新地址发布页面：" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://simishuwu.github.io" />
-<meta property="og:url" content="https://simishuwu.github.io" />
+<link rel="canonical" href="https://simishuwu123.github.io/fabu/" />
+<meta property="og:url" content="https://simishuwu123.github.io/fabu/" />
 <meta property="og:site_name" content="simishuwu" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="私密书屋最新地址发布页面：" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"私密书屋最新地址发布页面：","name":"simishuwu","url":"https://simishuwu.github.io"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"私密书屋最新地址发布页面：","name":"simishuwu","url":"https://simishuwu123.github.io/fabu/"}</script>
 
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://simishuwu.github.io">私密书屋回家地址</a></h1>
+      <h1><a href="https://simishuwu123.github.io/fabu/">私密书屋回家地址</a></h1>
       
 
       <h1 id="私密书屋回家地址">私密书屋回家地址：</h1>
@@ -32,22 +33,20 @@
 </div>
 <div class="navigation-content">
 <div class="line">
-<p>小说最后更新时间：2022.10.04</p>
+<p>最新地址发布页面：2024.4.04</p>
 
 <p>请使用“CTRL+D”将本页添加至您的浏览器收藏夹或手机截图保存，方便下次访问。</p>
 
 <p>由于国内浏览器会对人视频进行画面揭无法访问，建议下载（google浏览器）看片无限制作。</p>
 
-<p>最新地址1：<a href=https://m.emoshuwu.com/" target="_blank">m.emoshuwu.com</a></p>
+<p>最新地址1：<a href=https://www.simishuwu.xyz/ target="_blank">simishuwu.xyz</a></p>
 
-<p>最新地址2：<a href=https://m.yinbishuwu.com/" target="_blank">m.yinbishuwu.com</a></p>
+<p>最新地址2：<a href=https://www.simidizhi.xyz/ target="_blank">simidizhi.xyz</a></p>
 
-<p>最新地址3：<a href=https://m.yinmishuwu.com/" target="_blank">m.yinmishuwu.com</a></p>
+<p>最新地址3：<a href=https://www.wodesimi.com/ target="_blank">wodesimi.com</a></p>
 
-<p>最新地址4：<a href=https://m.nbshuwu.com/" target="_blank">m.nbshuwu.com</a></p>
-
-<p>最新地址5：<a href="https://m.mnshuku.com/" target="_blank">m.mnshuku.com</a></p>
-
+<p>最快电影网：<a href=http://www.simiyingyuan.com/ target="_blank">www.simiyingyuan.com</a></p>
+  
 <p>如以上都无法打开时，可发送消息至【simishuwu.@gmail.com】获取最新地址。</p>
   
 </div>
